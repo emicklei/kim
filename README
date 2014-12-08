@@ -1,0 +1,8 @@
+== Kim
+
+This small piece of software can help you find files on external discs.
+You create a kim-index from each disc and store it locally for search.
+Kim will inspect all indexes when searching for matching files.
+
+In addition, this software can detect changes between directories.
+

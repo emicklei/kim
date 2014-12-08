@@ -1,0 +1,8 @@
+
+/abc.txt
+/bar
+/bar/jkl.rb
+/bar/mno.txt
+/foo
+/foo/def.rb
+/foo/ghi.txt
